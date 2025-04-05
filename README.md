@@ -53,8 +53,8 @@ This model fetches race results from the Ergast API and:
 
 | Notebook | Description |
 |----------|-------------|
-| `formulaone2025.ipynb` | Machine Learning-based prediction using Kaggle dataset |
-| `ergastapiformulaone.ipynb` | API-based prediction using Ergast Developer API |
+| `f1_winner_prediction_ML.ipynb` | Machine Learning-based prediction using Kaggle dataset |
+| `f1_winner_API_based_model.ipynb` | API-based prediction using Ergast Developer API |
 
 ---
 
