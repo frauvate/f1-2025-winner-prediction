@@ -7,7 +7,7 @@ This repository contains two separate approaches to predict the potential winner
 The aim is to estimate the most probable championship-winning driver using two different data sources and modeling techniques:
 
 1. **Machine Learning Model** trained on historical race results (1950–2020)
-2. **Ergast API-Based Model** using recent race data from 2021 to 2023
+2. **Ergast API-Based Model** using recent race data from 2021 to 2024
 
 Both models aim to predict which driver has the highest chance of becoming the 2025 world champion.
 
@@ -21,7 +21,7 @@ Both models aim to predict which driver has the highest chance of becoming the 2
 
 ### 🌐 Live Data (API Model)
 - Source: [Ergast Developer API](https://ergast.com/mrd/)
-- Used to generate predictions based on recent performance trends (2021–2023).
+- Used to generate predictions based on recent performance trends (2021–2024).
 
 ---
 
